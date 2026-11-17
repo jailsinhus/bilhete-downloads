@@ -17,6 +17,8 @@ Este repositório serve **apenas para distribuir o APK**. O código-fonte não f
 
 Última versão: **[v1.25.0](https://github.com/jailsinhus/bilhete-downloads/releases/latest)**
 
+Link curto para repassar: **https://is.gd/bilheteslb**
+
 Link direto do APK:
 
 ```
