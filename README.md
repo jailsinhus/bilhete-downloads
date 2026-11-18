@@ -15,14 +15,14 @@ Este repositório serve **apenas para distribuir o APK**. O código-fonte não f
 
 ## Baixar
 
-Última versão: **[v1.25.0](https://github.com/jailsinhus/bilhete-downloads/releases/latest)**
+Última versão: **[v1.25.1](https://github.com/jailsinhus/bilhete-downloads/releases/latest)**
 
 Link curto para repassar: **https://is.gd/bilheteslb**
 
 Link direto do APK:
 
 ```
-https://github.com/jailsinhus/bilhete-downloads/releases/latest/download/Bilhete-v1.25.0-debug.apk
+https://github.com/jailsinhus/bilhete-downloads/releases/latest/download/Bilhete-v1.25.1-debug.apk
 ```
 
 ## Instalar
