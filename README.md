@@ -19,10 +19,10 @@ Este repositório serve **apenas para distribuir o APK**. O código-fonte não f
 
 Link curto para repassar: **https://is.gd/bilheteslb**
 
-Link direto do APK:
+Link direto do APK (nome fixo, não muda a cada versão):
 
 ```
-https://github.com/jailsinhus/bilhete-downloads/releases/latest/download/Bilhete-v1.25.1-debug.apk
+https://github.com/jailsinhus/bilhete-downloads/releases/latest/download/Bilhete.apk
 ```
 
 ## Instalar
